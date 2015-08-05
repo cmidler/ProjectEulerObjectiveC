@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DE0C07D21B71415000D92EA6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07D11B71415000D92EA6 /* main.m */; };
+		DE0C07DD1B71457600D92EA6 /* compute3And5.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07DC1B71457600D92EA6 /* compute3And5.m */; };
+		DE0C07E11B71529100D92EA6 /* fibonacci.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07E01B71529100D92EA6 /* fibonacci.m */; };
+		DE0C07E41B71559200D92EA6 /* LargestPrimeFactor.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07E31B71559200D92EA6 /* LargestPrimeFactor.m */; };
+		DE0C07E71B715C6F00D92EA6 /* NumberPalindrome.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07E61B715C6F00D92EA6 /* NumberPalindrome.m */; };
+		DE0C07EA1B7169E900D92EA6 /* SmallestMultiple.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07E91B7169E900D92EA6 /* SmallestMultiple.m */; };
+		DE0C07ED1B716BA600D92EA6 /* SumOfSquares.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07EC1B716BA600D92EA6 /* SumOfSquares.m */; };
+		DE0C07F01B72432000D92EA6 /* ParticularPrime.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07EF1B72432000D92EA6 /* ParticularPrime.m */; };
+		DE0C07F31B72481000D92EA6 /* GreatestProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07F21B72481000D92EA6 /* GreatestProduct.m */; };
+		DE0C07F61B724EFB00D92EA6 /* Number9.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07F51B724EFB00D92EA6 /* Number9.m */; };
+		DE0C07F91B7251E700D92EA6 /* Number10.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07F81B7251E700D92EA6 /* Number10.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DE0C07CC1B71415000D92EA6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		DE0C07CE1B71415000D92EA6 /* test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE0C07D11B71415000D92EA6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DE0C07DB1B71457600D92EA6 /* compute3And5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = compute3And5.h; sourceTree = "<group>"; };
+		DE0C07DC1B71457600D92EA6 /* compute3And5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = compute3And5.m; sourceTree = "<group>"; };
+		DE0C07DE1B71458B00D92EA6 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		DE0C07DF1B71529100D92EA6 /* fibonacci.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fibonacci.h; sourceTree = "<group>"; };
+		DE0C07E01B71529100D92EA6 /* fibonacci.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fibonacci.m; sourceTree = "<group>"; };
+		DE0C07E21B71559200D92EA6 /* LargestPrimeFactor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LargestPrimeFactor.h; sourceTree = "<group>"; };
+		DE0C07E31B71559200D92EA6 /* LargestPrimeFactor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LargestPrimeFactor.m; sourceTree = "<group>"; };
+		DE0C07E51B715C6F00D92EA6 /* NumberPalindrome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberPalindrome.h; sourceTree = "<group>"; };
+		DE0C07E61B715C6F00D92EA6 /* NumberPalindrome.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberPalindrome.m; sourceTree = "<group>"; };
+		DE0C07E81B7169E900D92EA6 /* SmallestMultiple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SmallestMultiple.h; sourceTree = "<group>"; };
+		DE0C07E91B7169E900D92EA6 /* SmallestMultiple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SmallestMultiple.m; sourceTree = "<group>"; };
+		DE0C07EB1B716BA600D92EA6 /* SumOfSquares.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumOfSquares.h; sourceTree = "<group>"; };
+		DE0C07EC1B716BA600D92EA6 /* SumOfSquares.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SumOfSquares.m; sourceTree = "<group>"; };
+		DE0C07EE1B72432000D92EA6 /* ParticularPrime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParticularPrime.h; sourceTree = "<group>"; };
+		DE0C07EF1B72432000D92EA6 /* ParticularPrime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParticularPrime.m; sourceTree = "<group>"; };
+		DE0C07F11B72481000D92EA6 /* GreatestProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GreatestProduct.h; sourceTree = "<group>"; };
+		DE0C07F21B72481000D92EA6 /* GreatestProduct.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GreatestProduct.m; sourceTree = "<group>"; };
+		DE0C07F41B724EFB00D92EA6 /* Number9.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number9.h; sourceTree = "<group>"; };
+		DE0C07F51B724EFB00D92EA6 /* Number9.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number9.m; sourceTree = "<group>"; };
+		DE0C07F71B7251E700D92EA6 /* Number10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number10.h; sourceTree = "<group>"; };
+		DE0C07F81B7251E700D92EA6 /* Number10.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number10.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DE0C07CB1B71415000D92EA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DE0C07C51B71415000D92EA6 = {
+			isa = PBXGroup;
+			children = (
+				DE0C07D01B71415000D92EA6 /* test */,
+				DE0C07CF1B71415000D92EA6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DE0C07CF1B71415000D92EA6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DE0C07CE1B71415000D92EA6 /* test */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DE0C07D01B71415000D92EA6 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				DE0C07DE1B71458B00D92EA6 /* main.h */,
+				DE0C07D11B71415000D92EA6 /* main.m */,
+				DE0C07DB1B71457600D92EA6 /* compute3And5.h */,
+				DE0C07DC1B71457600D92EA6 /* compute3And5.m */,
+				DE0C07DF1B71529100D92EA6 /* fibonacci.h */,
+				DE0C07E01B71529100D92EA6 /* fibonacci.m */,
+				DE0C07E21B71559200D92EA6 /* LargestPrimeFactor.h */,
+				DE0C07E31B71559200D92EA6 /* LargestPrimeFactor.m */,
+				DE0C07E51B715C6F00D92EA6 /* NumberPalindrome.h */,
+				DE0C07E61B715C6F00D92EA6 /* NumberPalindrome.m */,
+				DE0C07E81B7169E900D92EA6 /* SmallestMultiple.h */,
+				DE0C07E91B7169E900D92EA6 /* SmallestMultiple.m */,
+				DE0C07EB1B716BA600D92EA6 /* SumOfSquares.h */,
+				DE0C07EC1B716BA600D92EA6 /* SumOfSquares.m */,
+				DE0C07EE1B72432000D92EA6 /* ParticularPrime.h */,
+				DE0C07EF1B72432000D92EA6 /* ParticularPrime.m */,
+				DE0C07F11B72481000D92EA6 /* GreatestProduct.h */,
+				DE0C07F21B72481000D92EA6 /* GreatestProduct.m */,
+				DE0C07F41B724EFB00D92EA6 /* Number9.h */,
+				DE0C07F51B724EFB00D92EA6 /* Number9.m */,
+				DE0C07F71B7251E700D92EA6 /* Number10.h */,
+				DE0C07F81B7251E700D92EA6 /* Number10.m */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DE0C07CD1B71415000D92EA6 /* test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE0C07D51B71415000D92EA6 /* Build configuration list for PBXNativeTarget "test" */;
+			buildPhases = (
+				DE0C07CA1B71415000D92EA6 /* Sources */,
+				DE0C07CB1B71415000D92EA6 /* Frameworks */,
+				DE0C07CC1B71415000D92EA6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = test;
+			productName = test;
+			productReference = DE0C07CE1B71415000D92EA6 /* test */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DE0C07C61B71415000D92EA6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = midler;
+				TargetAttributes = {
+					DE0C07CD1B71415000D92EA6 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = DE0C07C91B71415000D92EA6 /* Build configuration list for PBXProject "test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DE0C07C51B71415000D92EA6;
+			productRefGroup = DE0C07CF1B71415000D92EA6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DE0C07CD1B71415000D92EA6 /* test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DE0C07CA1B71415000D92EA6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE0C07F01B72432000D92EA6 /* ParticularPrime.m in Sources */,
+				DE0C07F91B7251E700D92EA6 /* Number10.m in Sources */,
+				DE0C07F31B72481000D92EA6 /* GreatestProduct.m in Sources */,
+				DE0C07D21B71415000D92EA6 /* main.m in Sources */,
+				DE0C07E41B71559200D92EA6 /* LargestPrimeFactor.m in Sources */,
+				DE0C07E71B715C6F00D92EA6 /* NumberPalindrome.m in Sources */,
+				DE0C07E11B71529100D92EA6 /* fibonacci.m in Sources */,
+				DE0C07F61B724EFB00D92EA6 /* Number9.m in Sources */,
+				DE0C07EA1B7169E900D92EA6 /* SmallestMultiple.m in Sources */,
+				DE0C07ED1B716BA600D92EA6 /* SumOfSquares.m in Sources */,
+				DE0C07DD1B71457600D92EA6 /* compute3And5.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		DE0C07D31B71415000D92EA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		DE0C07D41B71415000D92EA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		DE0C07D61B71415000D92EA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		DE0C07D71B71415000D92EA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DE0C07C91B71415000D92EA6 /* Build configuration list for PBXProject "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE0C07D31B71415000D92EA6 /* Debug */,
+				DE0C07D41B71415000D92EA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE0C07D51B71415000D92EA6 /* Build configuration list for PBXNativeTarget "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE0C07D61B71415000D92EA6 /* Debug */,
+				DE0C07D71B71415000D92EA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DE0C07C61B71415000D92EA6 /* Project object */;
+}

@@ -24,6 +24,9 @@ int main(int argc, const char * argv[]) {
         Number9* n9 = [[Number9 alloc]init];
         Number10* n10 = [[Number10 alloc]init];
         Number11* n11 = [[Number11 alloc]init];
+        Number12* n12 = [[Number12 alloc]init];
+        Number13* n13 = [[Number13 alloc] init];
+        NSLog(@"Started tests...");
         
         /*NSLog(@"5 and 3 Sum is %d", [test1 computeSum]);
         NSLog(@"fib even sum is %ld", [fib evenFibonacciSum]);
@@ -34,8 +37,11 @@ int main(int argc, const char * argv[]) {
         NSLog(@"10001st prime is %ld", [pp findPrime:10001]);
         NSLog(@"greatest product is %ld", [gp findProduct:13]);
         NSLog(@"Number 9 is %ld", [n9 findTriplet]);
-        NSLog(@"Number 10 is %ld", [n10 sumOfPrimes:2000000]);*/
+        NSLog(@"Number 10 is %ld", [n10 sumOfPrimes:2000000]);
         NSLog(@"Number 11 is %ld", [n11 greatestProduct]);
+        NSLog(@"Number 12 is %ld", [n12 triangleNumberForDivisors:500]);*/
+        NSLog(@"Number 13 is %@", [n13 findFirstTenDigits]);
+        
     }
     return 0;
 }

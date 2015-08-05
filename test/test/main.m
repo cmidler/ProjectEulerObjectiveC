@@ -23,8 +23,9 @@ int main(int argc, const char * argv[]) {
         GreatestProduct* gp = [[GreatestProduct alloc]init];
         Number9* n9 = [[Number9 alloc]init];
         Number10* n10 = [[Number10 alloc]init];
+        Number11* n11 = [[Number11 alloc]init];
         
-        NSLog(@"5 and 3 Sum is %d", [test1 computeSum]);
+        /*NSLog(@"5 and 3 Sum is %d", [test1 computeSum]);
         NSLog(@"fib even sum is %ld", [fib evenFibonacciSum]);
         NSLog(@"largest prime factor is %ld", [lpf getLargestPrimeFactor:600851475143]);
         NSLog(@"number palindrome is %ld", [np findLargestPalindromeInDigits:3]);
@@ -33,7 +34,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"10001st prime is %ld", [pp findPrime:10001]);
         NSLog(@"greatest product is %ld", [gp findProduct:13]);
         NSLog(@"Number 9 is %ld", [n9 findTriplet]);
-        NSLog(@"Number 10 is %ld", [n10 sumOfPrimes:2000000]);
+        NSLog(@"Number 10 is %ld", [n10 sumOfPrimes:2000000]);*/
+        NSLog(@"Number 11 is %ld", [n11 greatestProduct]);
     }
     return 0;
 }

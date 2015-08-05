@@ -18,6 +18,7 @@
 		DE0C07F31B72481000D92EA6 /* GreatestProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07F21B72481000D92EA6 /* GreatestProduct.m */; };
 		DE0C07F61B724EFB00D92EA6 /* Number9.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07F51B724EFB00D92EA6 /* Number9.m */; };
 		DE0C07F91B7251E700D92EA6 /* Number10.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07F81B7251E700D92EA6 /* Number10.m */; };
+		DE0C07FC1B725D3B00D92EA6 /* Number11.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07FB1B725D3B00D92EA6 /* Number11.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,6 +57,8 @@
 		DE0C07F51B724EFB00D92EA6 /* Number9.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number9.m; sourceTree = "<group>"; };
 		DE0C07F71B7251E700D92EA6 /* Number10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number10.h; sourceTree = "<group>"; };
 		DE0C07F81B7251E700D92EA6 /* Number10.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number10.m; sourceTree = "<group>"; };
+		DE0C07FA1B725D3B00D92EA6 /* Number11.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number11.h; sourceTree = "<group>"; };
+		DE0C07FB1B725D3B00D92EA6 /* Number11.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number11.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				DE0C07F51B724EFB00D92EA6 /* Number9.m */,
 				DE0C07F71B7251E700D92EA6 /* Number10.h */,
 				DE0C07F81B7251E700D92EA6 /* Number10.m */,
+				DE0C07FA1B725D3B00D92EA6 /* Number11.h */,
+				DE0C07FB1B725D3B00D92EA6 /* Number11.m */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -178,6 +183,7 @@
 				DE0C07E71B715C6F00D92EA6 /* NumberPalindrome.m in Sources */,
 				DE0C07E11B71529100D92EA6 /* fibonacci.m in Sources */,
 				DE0C07F61B724EFB00D92EA6 /* Number9.m in Sources */,
+				DE0C07FC1B725D3B00D92EA6 /* Number11.m in Sources */,
 				DE0C07EA1B7169E900D92EA6 /* SmallestMultiple.m in Sources */,
 				DE0C07ED1B716BA600D92EA6 /* SumOfSquares.m in Sources */,
 				DE0C07DD1B71457600D92EA6 /* compute3And5.m in Sources */,

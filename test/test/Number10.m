@@ -29,7 +29,7 @@
             //add to prime list
             [primes addObject:[NSNumber numberWithLong:i] ];
             
-            //now loop through and mark all multiple (starting at square) as not prime
+            //now loop through and mark all multiple as not prime (starting at square) 
             NSNumber* one = [NSNumber numberWithInt:1];
             for(long j = i*i; j< number; j+=i)
                 [sieve setObject:one atIndexedSubscript:j];

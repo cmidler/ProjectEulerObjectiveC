@@ -21,6 +21,10 @@
 		DE0C07FC1B725D3B00D92EA6 /* Number11.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07FB1B725D3B00D92EA6 /* Number11.m */; };
 		DE0C07FF1B72776A00D92EA6 /* Number12.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C07FE1B72776A00D92EA6 /* Number12.m */; };
 		DE0C08021B72885900D92EA6 /* Number13.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C08011B72885900D92EA6 /* Number13.m */; };
+		DE0C08051B72986700D92EA6 /* Number14.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C08041B72986700D92EA6 /* Number14.m */; };
+		DE0C08081B729AB400D92EA6 /* Number15.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C08071B729AB400D92EA6 /* Number15.m */; };
+		DE0C080B1B72A4B900D92EA6 /* Number16.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C080A1B72A4B900D92EA6 /* Number16.m */; };
+		DE0C080E1B73C49F00D92EA6 /* Number18.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0C080D1B73C49F00D92EA6 /* Number18.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +69,14 @@
 		DE0C07FE1B72776A00D92EA6 /* Number12.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number12.m; sourceTree = "<group>"; };
 		DE0C08001B72885900D92EA6 /* Number13.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number13.h; sourceTree = "<group>"; };
 		DE0C08011B72885900D92EA6 /* Number13.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number13.m; sourceTree = "<group>"; };
+		DE0C08031B72986700D92EA6 /* Number14.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number14.h; sourceTree = "<group>"; };
+		DE0C08041B72986700D92EA6 /* Number14.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number14.m; sourceTree = "<group>"; };
+		DE0C08061B729AB400D92EA6 /* Number15.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number15.h; sourceTree = "<group>"; };
+		DE0C08071B729AB400D92EA6 /* Number15.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number15.m; sourceTree = "<group>"; };
+		DE0C08091B72A4B900D92EA6 /* Number16.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number16.h; sourceTree = "<group>"; };
+		DE0C080A1B72A4B900D92EA6 /* Number16.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number16.m; sourceTree = "<group>"; };
+		DE0C080C1B73C49F00D92EA6 /* Number18.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number18.h; sourceTree = "<group>"; };
+		DE0C080D1B73C49F00D92EA6 /* Number18.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number18.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +137,14 @@
 				DE0C07FE1B72776A00D92EA6 /* Number12.m */,
 				DE0C08001B72885900D92EA6 /* Number13.h */,
 				DE0C08011B72885900D92EA6 /* Number13.m */,
+				DE0C08031B72986700D92EA6 /* Number14.h */,
+				DE0C08041B72986700D92EA6 /* Number14.m */,
+				DE0C08061B729AB400D92EA6 /* Number15.h */,
+				DE0C08071B729AB400D92EA6 /* Number15.m */,
+				DE0C08091B72A4B900D92EA6 /* Number16.h */,
+				DE0C080A1B72A4B900D92EA6 /* Number16.m */,
+				DE0C080C1B73C49F00D92EA6 /* Number18.h */,
+				DE0C080D1B73C49F00D92EA6 /* Number18.m */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -187,8 +207,12 @@
 			files = (
 				DE0C07F01B72432000D92EA6 /* ParticularPrime.m in Sources */,
 				DE0C07F91B7251E700D92EA6 /* Number10.m in Sources */,
+				DE0C08051B72986700D92EA6 /* Number14.m in Sources */,
 				DE0C07FF1B72776A00D92EA6 /* Number12.m in Sources */,
+				DE0C080B1B72A4B900D92EA6 /* Number16.m in Sources */,
+				DE0C08081B729AB400D92EA6 /* Number15.m in Sources */,
 				DE0C07F31B72481000D92EA6 /* GreatestProduct.m in Sources */,
+				DE0C080E1B73C49F00D92EA6 /* Number18.m in Sources */,
 				DE0C08021B72885900D92EA6 /* Number13.m in Sources */,
 				DE0C07D21B71415000D92EA6 /* main.m in Sources */,
 				DE0C07E41B71559200D92EA6 /* LargestPrimeFactor.m in Sources */,

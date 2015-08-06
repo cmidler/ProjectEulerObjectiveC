@@ -26,6 +26,10 @@ int main(int argc, const char * argv[]) {
         Number11* n11 = [[Number11 alloc]init];
         Number12* n12 = [[Number12 alloc]init];
         Number13* n13 = [[Number13 alloc] init];
+        Number14* n14 = [[Number14 alloc] init];
+        Number15* n15 = [[Number15 alloc] init];
+        Number16* n16 = [[Number16 alloc] init];
+
         NSLog(@"Started tests...");
         
         /*NSLog(@"5 and 3 Sum is %d", [test1 computeSum]);
@@ -39,9 +43,11 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Number 9 is %ld", [n9 findTriplet]);
         NSLog(@"Number 10 is %ld", [n10 sumOfPrimes:2000000]);
         NSLog(@"Number 11 is %ld", [n11 greatestProduct]);
-        NSLog(@"Number 12 is %ld", [n12 triangleNumberForDivisors:500]);*/
+        NSLog(@"Number 12 is %ld", [n12 triangleNumberForDivisors:500]);
         NSLog(@"Number 13 is %@", [n13 findFirstTenDigits]);
-        
+        NSLog(@"Number 14 is %ld", [n14 largestCollatzSequenceUnderStartingNumber:1000000]);
+        NSLog(@"Number 15 is %ld", [n15 latticePath]);*/
+        NSLog(@"Number 16 is %lld", [n16 highNumberAddition]);
     }
     return 0;
 }

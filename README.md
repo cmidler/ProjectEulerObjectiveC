@@ -1,6 +1,5 @@
 # ProjectEulerObjectiveC
-Some objective c solutions to project euler questions
-
+Some objective c solutions to project euler questions: https://projecteuler.net/
 
 I seperated out each solution into its own class to make it easy.  
 Sometimes I made the solutions capable of solving for different values than just the project Euler.
